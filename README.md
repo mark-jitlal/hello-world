@@ -1,6 +1,9 @@
 # hello-world
 My introduction to GitHub
 
-My first repository!
+
+This is my first attempt at starting a repository.
 
 And I've got something else to say....
+=======
+This is my first attempt at starting a repository.
